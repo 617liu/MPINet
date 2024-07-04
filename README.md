@@ -1,3 +1,3 @@
 # MPINet
-MPINet 代码
+MPINet网络的核心代码
 需要安装mmselfsup框架来运行。
